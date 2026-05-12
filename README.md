@@ -63,16 +63,13 @@ The project separates responsibilities into several classes:
 
 ## Screenshots
 
-Add screenshots to the `screenshots/` folder before final submission:
-
 - `screenshots/game_loaded.png`
 - `screenshots/correct_click.png`
 - `screenshots/reveal_differences.png`
 
 ## GitHub Repository
 
-Add the public repository URL to `github_link.txt` before submission.
-
+https://github.com/Rabbi730/HIT137-Assignment-3
 ## Student / Group Members
 
 Add your name and group member names here.
