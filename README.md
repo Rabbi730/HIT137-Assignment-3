@@ -72,4 +72,6 @@ The project separates responsibilities into several classes:
 https://github.com/Rabbi730/HIT137-Assignment-3
 ## Student / Group Members
 
-Add your name and group member names here.
+MD Mustafizur Rahman Himel
+T M Fazla Rabbi
+Miraj Hossain
